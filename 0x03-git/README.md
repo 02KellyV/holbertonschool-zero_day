@@ -20,5 +20,4 @@
 	        - A `README.md` file, at the root of the folder of _this_ project (e.g. `0x01-emacs`), describing what this project is about
 	        - And `README.md` file in the repo, describing the projects and all the links to this directories.
 
-## Hey Now, look around!
-## Everybody see what's going down...
+## Hey Now, look around! Everybody see what's going down...
