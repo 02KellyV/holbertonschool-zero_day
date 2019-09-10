@@ -1,19 +1,23 @@
-# Welcome to my project!
+# VI
 
-- Vi: 
-	- What is vi?
-  - Who is Bill Joy?
-  - How to start and exit vi?
-  - What are the command and insert modes, and how to switch from one to the other?
-  - How to edit text?
-  - How to cut and paste lines?
-  - How to search forward and backward?
-  - How to undo?
-  - How to quit vi?
+- Vi
+	- What is vi? 
+	**vi** is a text **editor** written by Bill Joy (co-founder Sun Microsystems) in 1976 for an early BSD oses.
+	
+	- Who is Bill Joy?
+	**Bill Joy** is a well-known computer software engineer, businessman, and futurist. 
+	- [Basic vi Commands](https://intranet.hbtn.io/rltoken/TvhnXN1GAP7Et5OSuceGqw "Basic vi Commands")
+	
+		|    command | stands for |
+		|---------------|:------------:|
+		|    vi filename |  insert text before the cursor |
+		|    yy |  cut (yank) the current line |
+		|    p |  paste the lines in the buffer into the text after the current line |
+		|    u |  undo what you just did |
+		|    :q!<Return> |  quit vi even though latest changes have not been saved for this vi call |
+		|    0 |  move the cursor to the start of the current line |
+		|    $ |  move the cursor to the end of the line |
+		|    :(no. line) |  move the cursor to no. line  |
+		|   1dk | delete the current and previous line at the same time |
 
--GitHub
- -	Linux:
- - Emacs 
- - etc...
-
-### Slow but safe!
+## Slow but safe!
