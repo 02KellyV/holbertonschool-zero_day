@@ -23,6 +23,7 @@ We review topics such as:
 			- C:\dir> `vagrant init ubuntu/trusty64`
 			- C:\dir> `vagrant up`
 			- C:\dir> `vagrant ssh`
+			
 		>  Note: If doesn't works, download the img vagrant from my [drive](https://drive.google.com/open?id=1PL7lkYJn-PcN72C4rpd0kBKUSC83LbM7). 
     (Copy the dir and paste in ypur Windows pc, rute: _c:\users\pc1\ .vagrant.d\boxes_)
     
