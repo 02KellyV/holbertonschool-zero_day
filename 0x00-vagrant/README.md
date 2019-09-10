@@ -1,4 +1,9 @@
+# Vagrant
+
+We review topics such as:
+
 -   Vagrant:
+
 	- What is a zero-day?
 	The term "zero day" refers to a newly discovered software vulnerability and not patched yet, it's the time since it is found until it is "fixed." If hackers manage to exploit that security hole at that time, that is known as a zero-day attack.
 	
